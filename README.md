@@ -3,11 +3,11 @@
 [DEMO LINK](https://vue-http-demo-c46ab.web.app/coaches/)
 ____________
 
-<h3>Project features</h3>
+<h3>Project features:</h3>
 <p align="left">
-<img src="https://v3.ru.vuejs.org/logo.png" alt="vue3" width="45" height="45"/> Vue 3, Composition API <br>
-<img src="https://pinia.vuejs.org/logo.svg" alt="pinia" width="45" height="45"/> Pinia <br>
-<img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-128.png" alt="firebase" width="45" height="45"/> Firebase <br>
+&nbsp;<img src="https://v3.ru.vuejs.org/logo.png" alt="vue3" width="30" height="30"/> Vue 3, Composition API <br>
+<img src="https://pinia.vuejs.org/logo.svg" alt="pinia" width="35" height="35"/> Pinia <br>
+&nbsp;<img src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" alt="firebase" width="20" height="30"/> &nbsp;&nbsp;Firebase <br>
 
 -----------
 Here you can:

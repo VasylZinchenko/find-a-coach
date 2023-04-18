@@ -7,7 +7,7 @@ ____________
 <p align="left">
 <img src="https://v3.ru.vuejs.org/logo.png" alt="vue3" width="45" height="45"/> Vue 3, Composition API <br>
 <img src="https://pinia.vuejs.org/logo.svg" alt="pinia" width="45" height="45"/> Pinia <br>
-<img src="https://www.gstatic.com/devrel-devsite/prod/v71aa34ff497d3466ac0b9a9c7f271f4ec4877f277daabf51c5b59f725a1b70c7/firebase/images/lockup.svg" alt="firebase" width="75" height="45"/> Firebase <br>
+<img src="[[https://www.gstatic.com/devrel-devsite/prod/v71aa34ff497d3466ac0b9a9c7f271f4ec4877f277daabf51c5b59f725a1b70c7/firebase/images/lockup.svg](https://e7.pngegg.com/pngimages/119/167/png-clipart-firebase-cloud-messaging-google-developers-software-development-kit-google-angle-triangle-thumbnail.png)](https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png)" alt="firebase" width="45" height="45"/> Firebase <br>
 
 -----------
 Here you can:
